@@ -1,3 +1,5 @@
+
+
 $(document).ready(function() {
 	$('.enemy').each(function() {
 		$(this).removeClass('enemy');
